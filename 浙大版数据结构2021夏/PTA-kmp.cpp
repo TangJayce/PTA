@@ -25,7 +25,6 @@ int index_kmp(char str[], char pattern[]) {
 
 char str[N*10], pattern[N];
 int main() {
-    freopen("E:\\ProgramData\\CppProjects\\ACM\\input.txt", "r", stdin);
     scanf("%s", str);
     int n;
     scanf("%d", &n);
